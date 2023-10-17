@@ -13,27 +13,12 @@ Whenever you commit to this repository, GitHub Pages will run to rebuild the pag
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Fashion Illustraion** and _Chaw_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Fashion Illustration Books for Beginner](https://zillionaireme.gumroad.com/l/ynuud).
 
 ### Jekyll Themes
 
